@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2 Order="5"/>
+	<stage7_2 Order="6" Type="1">
+		<ParamVals>10400</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="7" Type="102">
+		<ParamVals>1600</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="8" Type="301">
+		<ParamVals>25</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="9" Type="201">
+		<ParamVals>EnemyPlate_blue</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="10" Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="11" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="12" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="13" Type="206">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="14" Type="207">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="15" Type="2">
+		<ParamVals>104000</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="16" Type="101">
+		<ParamVals>10400</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="17" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="18" Type="301">
+		<ParamVals>400</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="19" Type="601">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="20" Type="2">
+		<ParamVals>104001</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="21" Type="101">
+		<ParamVals>104000</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="22" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="23" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="24" Type="501" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="25" Type="301">
+		<ParamVals>1000</ParamVals>
+	</stage7_2>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2 Order="29" Type="1">
+		<ParamVals>10401</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="30" Type="102">
+		<ParamVals>2200</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="31" Type="301">
+		<ParamVals>25</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="32" Type="201">
+		<ParamVals>EnemyPlate_blue</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="33" Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="34" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="35" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="36" Type="206">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="37" Type="207">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="38" Type="2">
+		<ParamVals>104010</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="39" Type="101">
+		<ParamVals>10401</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="40" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="41" Type="301">
+		<ParamVals>400</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="42" Type="601">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="43" Type="2">
+		<ParamVals>104011</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="44" Type="101">
+		<ParamVals>104010</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="45" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="46" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="47" Type="501" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="48" Type="301">
+		<ParamVals>1000</ParamVals>
+	</stage7_2>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2/>
+	<stage7_2 Order="53" Type="1">
+		<ParamVals>10402</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="54" Type="102">
+		<ParamVals>2900</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="55" Type="301">
+		<ParamVals>25</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="56" Type="201">
+		<ParamVals>EnemyPlate_blue</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="57" Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="58" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="59" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="60" Type="206">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="61" Type="207">
+		<ParamVals>10</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="62" Type="2">
+		<ParamVals>104020</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="63" Type="101">
+		<ParamVals>10402</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="64" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="65" Type="301">
+		<ParamVals>400</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="66" Type="601">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="67" Type="2">
+		<ParamVals>104021</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="68" Type="101">
+		<ParamVals>104020</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="69" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="70" Type="601">
+		<ParamVals>8</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="71" Type="501" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_2>
+	<stage7_2 Order="72" Type="301">
+		<ParamVals>1000</ParamVals>
+	</stage7_2>
+</root>

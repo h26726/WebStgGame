@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light/>
+	<stage7_card3light Order="15" Type="1">
+		<ParamVals>12901</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="16" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="17" Type="103">
+		<ParamVals>117</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="18" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="19" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="20" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="21" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="22" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="23" Type="2">
+		<ParamVals>129011</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="24" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="25" Type="101">
+		<ParamVals>12901</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="26" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="27" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="28" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="30" Type="1">
+		<ParamVals>12902</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="31" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="32" Type="103">
+		<ParamVals>231</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="33" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="34" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="35" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="36" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="37" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="38" Type="2">
+		<ParamVals>129021</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="39" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="40" Type="101">
+		<ParamVals>12902</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="41" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="42" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="43" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="45" Type="1">
+		<ParamVals>12903</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="46" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="47" Type="103">
+		<ParamVals>342</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="48" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="49" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="50" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="51" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="52" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="53" Type="2">
+		<ParamVals>129031</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="54" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="55" Type="101">
+		<ParamVals>12903</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="56" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="57" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="58" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="60" Type="1">
+		<ParamVals>12904</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="61" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="62" Type="103">
+		<ParamVals>450</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="63" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="64" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="65" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="66" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="67" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="68" Type="2">
+		<ParamVals>129041</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="69" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="70" Type="101">
+		<ParamVals>12904</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="71" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="72" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="73" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="75" Type="1">
+		<ParamVals>12905</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="76" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="77" Type="103">
+		<ParamVals>555</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="78" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="79" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="80" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="81" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="82" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="83" Type="2">
+		<ParamVals>129051</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="84" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="85" Type="101">
+		<ParamVals>12905</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="86" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="87" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="88" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="90" Type="1">
+		<ParamVals>12906</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="91" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="92" Type="103">
+		<ParamVals>657</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="93" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="94" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="95" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="96" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="97" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="98" Type="2">
+		<ParamVals>129061</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="99" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="100" Type="101">
+		<ParamVals>12906</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="101" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="102" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="103" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="105" Type="1">
+		<ParamVals>12907</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="106" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="107" Type="103">
+		<ParamVals>756</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="108" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="109" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="110" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="111" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="112" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="113" Type="2">
+		<ParamVals>129071</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="114" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="115" Type="101">
+		<ParamVals>12907</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="116" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="117" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="118" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="120" Type="1">
+		<ParamVals>12908</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="121" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="122" Type="103">
+		<ParamVals>852</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="123" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="124" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="125" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="126" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="127" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="128" Type="2">
+		<ParamVals>129081</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="129" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="130" Type="101">
+		<ParamVals>12908</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="131" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="132" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="133" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="135" Type="1">
+		<ParamVals>12909</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="136" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="137" Type="103">
+		<ParamVals>945</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="138" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="139" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="140" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="141" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="142" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="143" Type="2">
+		<ParamVals>129091</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="144" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="145" Type="101">
+		<ParamVals>12909</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="146" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="147" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="148" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="150" Type="1">
+		<ParamVals>12910</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="151" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="152" Type="103">
+		<ParamVals>1035</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="153" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="154" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="155" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="156" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="157" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="158" Type="2">
+		<ParamVals>129101</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="159" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="160" Type="101">
+		<ParamVals>12910</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="161" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="162" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="163" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="165" Type="1">
+		<ParamVals>12911</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="166" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="167" Type="103">
+		<ParamVals>1122</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="168" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="169" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="170" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="171" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="172" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="173" Type="2">
+		<ParamVals>129111</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="174" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="175" Type="101">
+		<ParamVals>12911</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="176" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="177" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="178" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="180" Type="1">
+		<ParamVals>12912</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="181" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="182" Type="103">
+		<ParamVals>1206</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="183" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="184" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="185" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="186" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="187" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="188" Type="2">
+		<ParamVals>129121</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="189" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="190" Type="101">
+		<ParamVals>12912</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="191" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="192" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="193" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="195" Type="1">
+		<ParamVals>12913</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="196" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="197" Type="103">
+		<ParamVals>1287</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="198" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="199" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="200" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="201" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="202" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="203" Type="2">
+		<ParamVals>129131</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="204" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="205" Type="101">
+		<ParamVals>12913</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="206" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="207" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="208" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="210" Type="1">
+		<ParamVals>12914</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="211" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="212" Type="103">
+		<ParamVals>1365</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="213" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="214" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="215" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="216" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="217" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="218" Type="2">
+		<ParamVals>129141</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="219" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="220" Type="101">
+		<ParamVals>12914</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="221" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="222" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="223" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="225" Type="1">
+		<ParamVals>12915</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="226" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="227" Type="103">
+		<ParamVals>1440</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="228" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="229" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="230" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="231" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="232" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="233" Type="2">
+		<ParamVals>129151</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="234" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="235" Type="101">
+		<ParamVals>12915</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="236" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="237" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="238" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="240" Type="1">
+		<ParamVals>12916</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="241" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="242" Type="103">
+		<ParamVals>1512</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="243" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="244" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="245" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="246" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="247" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="248" Type="2">
+		<ParamVals>129161</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="249" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="250" Type="101">
+		<ParamVals>12916</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="251" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="252" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="253" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="255" Type="1">
+		<ParamVals>12917</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="256" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="257" Type="103">
+		<ParamVals>1581</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="258" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="259" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="260" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="261" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="262" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="263" Type="2">
+		<ParamVals>129171</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="264" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="265" Type="101">
+		<ParamVals>12917</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="266" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="267" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="268" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="270" Type="1">
+		<ParamVals>12918</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="271" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="272" Type="103">
+		<ParamVals>1647</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="273" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="274" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="275" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="276" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="277" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="278" Type="2">
+		<ParamVals>129181</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="279" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="280" Type="101">
+		<ParamVals>12918</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="281" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="282" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="283" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="285" Type="1">
+		<ParamVals>12919</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="286" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="287" Type="103">
+		<ParamVals>1710</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="288" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="289" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="290" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="291" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="292" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="293" Type="2">
+		<ParamVals>129191</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="294" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="295" Type="101">
+		<ParamVals>12919</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="296" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="297" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="298" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light/>
+	<stage7_card3light Order="300" Type="1">
+		<ParamVals>12920</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="301" Type="101">
+		<ParamVals>128001</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="302" Type="103">
+		<ParamVals>1770</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="303" Type="201">
+		<ParamVals>EnemyLight2</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="304" Type="401" PosParamType="1">
+		<ParamVals>0,0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="305" Type="503" AngleParamType="2">
+		<ParamVals>1,3</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="306" Type="706">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="307" Type="301">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="308" Type="2">
+		<ParamVals>129201</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="309" Type="208">
+		<ParamVals>12900</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="310" Type="101">
+		<ParamVals>12920</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="311" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="312" Type="203">
+		<ParamVals>Show</ParamVals>
+	</stage7_card3light>
+	<stage7_card3light Order="313" Type="303">
+		<ParamVals>120</ParamVals>
+	</stage7_card3light>
+</root>

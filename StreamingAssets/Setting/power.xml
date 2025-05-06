@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<power/>
+	<power/>
+	<power/>
+	<power/>
+	<power/>
+	<power/>
+	<power/>
+	<power/>
+	<power Order="10" Type="9">
+		<ParamVals>901</ParamVals>
+	</power>
+	<power Order="11" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="12" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="13" Type="404" PosParamType="1">
+		<ParamVals>-0.5,-0.4</ParamVals>
+	</power>
+	<power Order="14" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="15" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="16" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="17" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="19" Type="9">
+		<ParamVals>902</ParamVals>
+	</power>
+	<power Order="20" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="21" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="22" Type="404" PosParamType="1">
+		<ParamVals>0.2,0.4</ParamVals>
+	</power>
+	<power Order="23" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="24" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="25" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="26" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="28" Type="9">
+		<ParamVals>903</ParamVals>
+	</power>
+	<power Order="29" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="30" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="31" Type="404" PosParamType="1">
+		<ParamVals>0.5,-0.2</ParamVals>
+	</power>
+	<power Order="32" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="33" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="34" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="35" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="37" Type="9">
+		<ParamVals>904</ParamVals>
+	</power>
+	<power Order="38" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="39" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="40" Type="404" PosParamType="1">
+		<ParamVals>-0.7,0.4</ParamVals>
+	</power>
+	<power Order="41" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="42" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="43" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="44" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="46" Type="9">
+		<ParamVals>905</ParamVals>
+	</power>
+	<power Order="47" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="48" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="49" Type="404" PosParamType="1">
+		<ParamVals>0.6,0.2</ParamVals>
+	</power>
+	<power Order="50" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="51" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="52" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="53" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="55" Type="9">
+		<ParamVals>906</ParamVals>
+	</power>
+	<power Order="56" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="57" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="58" Type="404" PosParamType="1">
+		<ParamVals>-0.2,-0.4</ParamVals>
+	</power>
+	<power Order="59" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="60" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="61" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="62" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="64" Type="9">
+		<ParamVals>907</ParamVals>
+	</power>
+	<power Order="65" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="66" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="67" Type="404" PosParamType="1">
+		<ParamVals>0.5,0.3</ParamVals>
+	</power>
+	<power Order="68" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="69" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="70" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="71" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="73" Type="9">
+		<ParamVals>908</ParamVals>
+	</power>
+	<power Order="74" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="75" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="76" Type="404" PosParamType="1">
+		<ParamVals>0,0.1</ParamVals>
+	</power>
+	<power Order="77" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="78" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="79" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="80" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="82" Type="9">
+		<ParamVals>909</ParamVals>
+	</power>
+	<power Order="83" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="84" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="85" Type="404" PosParamType="1">
+		<ParamVals>0.4,-0.5</ParamVals>
+	</power>
+	<power Order="86" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="87" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="88" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="89" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+	<power/>
+	<power Order="91" Type="9">
+		<ParamVals>910</ParamVals>
+	</power>
+	<power Order="92" Type="201">
+		<ParamVals>Power</ParamVals>
+	</power>
+	<power Order="93" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="94" Type="404" PosParamType="1">
+		<ParamVals>0.4,0.2</ParamVals>
+	</power>
+	<power Order="95" Type="601">
+		<ParamVals>-1</ParamVals>
+	</power>
+	<power Order="96" Type="602">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="97" Type="604">
+		<ParamVals>2</ParamVals>
+	</power>
+	<power Order="98" Type="501" AngleParamType="1">
+		<ParamVals>270</ParamVals>
+	</power>
+</root>

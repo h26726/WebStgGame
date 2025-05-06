@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Type="1">
+		<ParamVals>13100</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="102">
+		<ParamVals>4600</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="301">
+		<ParamVals>500</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="201">
+		<ParamVals>EnemyStar1_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="206">
+		<ParamVals>800</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="802" PosParamType="2">
+		<ParamVals>5</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="801">
+		<ParamVals>120</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="2">
+		<ParamVals>131001</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="101">
+		<ParamVals>13100</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="802" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Type="801">
+		<ParamVals>120</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="28" Type="1">
+		<ParamVals>13201</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="29" Type="102">
+		<ParamVals>4300</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="30" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="31" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="32" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="33" Type="601">
+		<ParamVals>2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="34" Type="401" PosParamType="1">
+		<ParamVals>-6,4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="36" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="38" Type="1">
+		<ParamVals>13202</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="39" Type="102">
+		<ParamVals>4400</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="40" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="41" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="42" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="43" Type="601">
+		<ParamVals>2.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="44" Type="401" PosParamType="1">
+		<ParamVals>-6,3.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="46" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="48" Type="1">
+		<ParamVals>13203</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="49" Type="102">
+		<ParamVals>4500</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="50" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="51" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="52" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="53" Type="601">
+		<ParamVals>2.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="54" Type="401" PosParamType="1">
+		<ParamVals>-6,2.8</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="56" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="58" Type="1">
+		<ParamVals>13204</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="59" Type="102">
+		<ParamVals>4600</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="60" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="61" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="62" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="63" Type="601">
+		<ParamVals>2.6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="64" Type="401" PosParamType="1">
+		<ParamVals>-6,2.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="66" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="68" Type="1">
+		<ParamVals>13205</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="69" Type="102">
+		<ParamVals>4700</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="70" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="71" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="72" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="73" Type="601">
+		<ParamVals>2.8</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="74" Type="401" PosParamType="1">
+		<ParamVals>-6,1.6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="76" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="78" Type="1">
+		<ParamVals>13206</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="79" Type="102">
+		<ParamVals>4800</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="80" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="81" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="82" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="83" Type="601">
+		<ParamVals>3</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="84" Type="401" PosParamType="1">
+		<ParamVals>-6,1</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="86" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="88" Type="1">
+		<ParamVals>13207</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="89" Type="102">
+		<ParamVals>4900</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="90" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="91" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="92" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="93" Type="601">
+		<ParamVals>3.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="94" Type="401" PosParamType="1">
+		<ParamVals>-6,0.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="96" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="98" Type="1">
+		<ParamVals>13208</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="99" Type="102">
+		<ParamVals>5000</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="100" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="101" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="102" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="103" Type="601">
+		<ParamVals>3.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="104" Type="401" PosParamType="1">
+		<ParamVals>-6,-0.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="106" Type="501" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="108" Type="1">
+		<ParamVals>13209</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="109" Type="102">
+		<ParamVals>4300</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="110" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="111" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="112" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="113" Type="601">
+		<ParamVals>2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="114" Type="401" PosParamType="1">
+		<ParamVals>6,4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="116" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="118" Type="1">
+		<ParamVals>13210</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="119" Type="102">
+		<ParamVals>4400</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="120" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="121" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="122" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="123" Type="601">
+		<ParamVals>2.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="124" Type="401" PosParamType="1">
+		<ParamVals>6,3.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="126" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="128" Type="1">
+		<ParamVals>13211</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="129" Type="102">
+		<ParamVals>4500</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="130" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="131" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="132" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="133" Type="601">
+		<ParamVals>2.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="134" Type="401" PosParamType="1">
+		<ParamVals>6,2.8</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="136" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="138" Type="1">
+		<ParamVals>13212</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="139" Type="102">
+		<ParamVals>4600</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="140" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="141" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="142" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="143" Type="601">
+		<ParamVals>2.6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="144" Type="401" PosParamType="1">
+		<ParamVals>6,2.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="146" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="148" Type="1">
+		<ParamVals>13213</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="149" Type="102">
+		<ParamVals>4700</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="150" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="151" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="152" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="153" Type="601">
+		<ParamVals>2.8</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="154" Type="401" PosParamType="1">
+		<ParamVals>6,1.6</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="156" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="158" Type="1">
+		<ParamVals>13214</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="159" Type="102">
+		<ParamVals>4800</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="160" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="161" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="162" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="163" Type="601">
+		<ParamVals>3</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="164" Type="401" PosParamType="1">
+		<ParamVals>6,1</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="166" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="168" Type="1">
+		<ParamVals>13215</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="169" Type="102">
+		<ParamVals>4900</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="170" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="171" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="172" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="173" Type="601">
+		<ParamVals>3.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="174" Type="401" PosParamType="1">
+		<ParamVals>6,0.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="176" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="178" Type="1">
+		<ParamVals>13216</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="179" Type="102">
+		<ParamVals>5000</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="180" Type="208">
+		<ParamVals>13200</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="181" Type="201">
+		<ParamVals>EnemyCross_blue</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="182" Type="206">
+		<ParamVals>50</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="183" Type="601">
+		<ParamVals>3.4</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy Order="184" Type="401" PosParamType="1">
+		<ParamVals>6,-0.2</ParamVals>
+	</stage7_7Enemy>
+	<stage7_7Enemy/>
+	<stage7_7Enemy Order="186" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_7Enemy>
+</root>

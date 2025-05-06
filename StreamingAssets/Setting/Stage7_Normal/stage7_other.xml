@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_other/>
+	<stage7_other/>
+	<stage7_other Order="4" Type="13">
+		<ParamVals>1001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="5" Type="102">
+		<ParamVals>0</ParamVals>
+	</stage7_other>
+	<stage7_other Order="6" Type="201">
+		<ParamVals>Stage7</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="8" Type="11">
+		<ParamVals>2001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="9" Type="102">
+		<ParamVals>1100</ParamVals>
+	</stage7_other>
+	<stage7_other Order="10" Type="203">
+		<ParamVals>StageTitle7</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other/>
+	<stage7_other Order="13" Type="5">
+		<ParamVals>4001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="14" Type="102">
+		<ParamVals>3450</ParamVals>
+	</stage7_other>
+	<stage7_other Order="15" Type="201">
+		<ParamVals>Boss_Round</ParamVals>
+	</stage7_other>
+	<stage7_other Order="16" Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_other>
+	<stage7_other Order="17" Type="802" PosParamType="2">
+		<ParamVals>6</ParamVals>
+	</stage7_other>
+	<stage7_other Order="18" Type="801">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other Order="19" Type="301">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="21" Type="12">
+		<ParamVals>3001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="22" Type="102">
+		<ParamVals>3550</ParamVals>
+	</stage7_other>
+	<stage7_other Order="23" Type="201">
+		<ParamVals>Dialogue1</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="25" Type="8">
+		<ParamVals>5001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="26" Type="102">
+		<ParamVals>4200</ParamVals>
+	</stage7_other>
+	<stage7_other Order="27" Type="802" PosParamType="1">
+		<ParamVals>4,8</ParamVals>
+	</stage7_other>
+	<stage7_other Order="28" Type="801">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other Order="29" Type="301">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other/>
+	<stage7_other Order="32" Type="5">
+		<ParamVals>4002</ParamVals>
+	</stage7_other>
+	<stage7_other Order="33" Type="102">
+		<ParamVals>6900</ParamVals>
+	</stage7_other>
+	<stage7_other Order="34" Type="201">
+		<ParamVals>Boss_Round</ParamVals>
+	</stage7_other>
+	<stage7_other Order="35" Type="401" PosParamType="1">
+		<ParamVals>0,6</ParamVals>
+	</stage7_other>
+	<stage7_other Order="36" Type="802" PosParamType="2">
+		<ParamVals>6</ParamVals>
+	</stage7_other>
+	<stage7_other Order="37" Type="801">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other Order="38" Type="301">
+		<ParamVals>60</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="40" Type="12">
+		<ParamVals>3002</ParamVals>
+	</stage7_other>
+	<stage7_other Order="41" Type="102">
+		<ParamVals>7000</ParamVals>
+	</stage7_other>
+	<stage7_other Order="42" Type="201">
+		<ParamVals>Dialogue1</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other/>
+	<stage7_other Order="45" Type="7">
+		<ParamVals>5002</ParamVals>
+	</stage7_other>
+	<stage7_other Order="46" Type="102">
+		<ParamVals>10300</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="48" Type="11">
+		<ParamVals>2009</ParamVals>
+	</stage7_other>
+	<stage7_other Order="49" Type="102">
+		<ParamVals>10500</ParamVals>
+	</stage7_other>
+	<stage7_other Order="50" Type="203">
+		<ParamVals>StageClear</ParamVals>
+	</stage7_other>
+	<stage7_other/>
+	<stage7_other Order="52" Type="14">
+		<ParamVals>6001</ParamVals>
+	</stage7_other>
+	<stage7_other Order="53" Type="102">
+		<ParamVals>11000</ParamVals>
+	</stage7_other>
+</root>

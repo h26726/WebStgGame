@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2 Order="10" Type="1">
+		<ParamVals>19301</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="11" Type="101">
+		<ParamVals>191108</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="12" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="13" Type="201">
+		<ParamVals>Empty</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="14" Type="202">
+		<ParamVals>Shot6_yellow</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="15" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="16" Type="703">
+		<ParamVals>True</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="17" Type="501" AngleParamType="2">
+		<ParamVals>2,3</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="18" Type="601">
+		<ParamVals>1</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="19" Type="602">
+		<ParamVals>2</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="20" Type="504" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="21" Type="2">
+		<ParamVals>193019</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="22" Type="101">
+		<ParamVals>19301</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="23" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="24" Type="101">
+		<ParamVals>193019</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="25" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="26" Type="301">
+		<ParamVals>20</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2/>
+	<stage7_card11shot2 Order="33" Type="1">
+		<ParamVals>19401</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="34" Type="101">
+		<ParamVals>193019</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="35" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="36" Type="201">
+		<ParamVals>EnemyShot6</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="37" Type="202">
+		<ParamVals>Shot6_yellow</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="38" Type="706">
+		<ParamVals>30</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="39" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="40" Type="701">
+		<ParamVals>True</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="41" Type="501" AngleParamType="7">
+		<ParamVals>2,0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="42" Type="506" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="43" Type="601">
+		<ParamVals>1</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="44" Type="504" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="45" Type="303">
+		<ParamVals>60</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2/>
+	<stage7_card11shot2 Order="47" Type="1">
+		<ParamVals>19402</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="48" Type="101">
+		<ParamVals>193019</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="49" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="50" Type="201">
+		<ParamVals>EnemyShot6</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="51" Type="202">
+		<ParamVals>Shot6_yellow</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="52" Type="706">
+		<ParamVals>30</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="53" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="54" Type="701">
+		<ParamVals>True</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="55" Type="501" AngleParamType="7">
+		<ParamVals>2,0</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="56" Type="506" AngleParamType="1">
+		<ParamVals>-90</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="57" Type="601">
+		<ParamVals>1</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="58" Type="504" AngleParamType="1">
+		<ParamVals>-90</ParamVals>
+	</stage7_card11shot2>
+	<stage7_card11shot2 Order="59" Type="303">
+		<ParamVals>60</ParamVals>
+	</stage7_card11shot2>
+</root>

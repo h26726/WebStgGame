@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_card11/>
+	<stage7_card11/>
+	<stage7_card11/>
+	<stage7_card11/>
+	<stage7_card11 Order="6" Type="6">
+		<ParamVals>19100</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="7" Type="102">
+		<ParamVals>9700</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="8" Type="301">
+		<ParamVals>30</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="9" Type="801">
+		<ParamVals>30</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="10" Type="803">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="11" Type="802" PosParamType="2">
+		<ParamVals>6</ParamVals>
+	</stage7_card11>
+	<stage7_card11/>
+	<stage7_card11/>
+	<stage7_card11/>
+	<stage7_card11 Order="15" Type="10">
+		<ParamVals>19110</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="16" Type="102">
+		<ParamVals>9800</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="17" Type="203">
+		<ParamVals>Sera</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="18" Type="206">
+		<ParamVals>1000</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="19" Type="304">
+		<ParamVals>2400</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="20" Type="204">
+		<ParamVals>某日「墜落之舞」</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="21" Type="301">
+		<ParamVals>120</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="22" Type="2">
+		<ParamVals>191101</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="23" Type="101">
+		<ParamVals>19110</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="24" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="25" Type="101">
+		<ParamVals>191103</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="26" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="27" Type="301">
+		<ParamVals>120</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="28" Type="702">
+		<ParamVals>False</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="29" Type="601">
+		<ParamVals>1.5</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="30" Type="501" AngleParamType="1">
+		<ParamVals>180</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="31" Type="2">
+		<ParamVals>191102</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="32" Type="101">
+		<ParamVals>191101</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="33" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="34" Type="301">
+		<ParamVals>240</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="35" Type="601">
+		<ParamVals>-1.5</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="36" Type="2">
+		<ParamVals>191103</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="37" Type="101">
+		<ParamVals>191102</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="38" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="39" Type="301">
+		<ParamVals>120</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="40" Type="601">
+		<ParamVals>1.5</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="41" Type="2">
+		<ParamVals>191109</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="42" Type="101">
+		<ParamVals>19110</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="43" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="44" Type="101">
+		<ParamVals>191109</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="45" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="46" Type="301">
+		<ParamVals>240</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="47" Type="2">
+		<ParamVals>191108</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="48" Type="101">
+		<ParamVals>19110</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="49" Type="103">
+		<ParamVals>240</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="50" Type="101">
+		<ParamVals>191108</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="51" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card11>
+	<stage7_card11 Order="52" Type="301">
+		<ParamVals>120</ParamVals>
+	</stage7_card11>
+</root>

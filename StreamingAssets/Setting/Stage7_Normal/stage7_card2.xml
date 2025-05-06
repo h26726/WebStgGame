@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2 Order="6" Type="6">
+		<ParamVals>11900</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="7" Type="102">
+		<ParamVals>3800</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="8" Type="301">
+		<ParamVals>60</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="9" Type="801">
+		<ParamVals>60</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="10" Type="802" PosParamType="2">
+		<ParamVals>6</ParamVals>
+	</stage7_card2>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2/>
+	<stage7_card2 Order="16" Type="10">
+		<ParamVals>12000</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="17" Type="102">
+		<ParamVals>3900</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="18" Type="203">
+		<ParamVals>Sera</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="19" Type="206">
+		<ParamVals>1000</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="20" Type="304">
+		<ParamVals>3000</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="21" Type="204">
+		<ParamVals>旋轉「零散牽引」</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="22" Type="301">
+		<ParamVals>180</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="23" Type="2">
+		<ParamVals>120001</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="24" Type="101">
+		<ParamVals>12000</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="25" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_card2>
+	<stage7_card2 Order="26" Type="702">
+		<ParamVals>False</ParamVals>
+	</stage7_card2>
+</root>

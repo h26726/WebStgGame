@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<dialog1 Id="1" MainId="3001" Text="測試2&#xA;B" LeftAni="transparent" RightAni="Idle"/>
+	<dialog1 Id="2" MainId="3001" Text="測試3" LeftAni="Idle" RightAni="transparent"/>
+	<dialog1 Id="3" MainId="3001" Text="測試4" LeftAni="Hide" RightAni="Idle"/>
+	<dialog1/>
+	<dialog1/>
+	<dialog1 Id="4" MainId="3002" Text="測試C" LeftAni="transparent" RightAni="Idle"/>
+	<dialog1 Id="5" MainId="3002" Text="測試3C" LeftAni="Idle" RightAni="transparent" Bgm="Stage7Boss"/>
+	<dialog1 Id="6" MainId="3002" Text="測試4C" LeftAni="Hide" RightAni="Idle"/>
+</root>

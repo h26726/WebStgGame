@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage1/>
+	<stage1 Order="3" Type="15">
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Order="4" Type="1">
+		<ParamVals>100001</ParamVals>
+	</stage1>
+	<stage1 Order="5" Type="63">
+		<ParamVals>100</ParamVals>
+		<ParamVals>200</ParamVals>
+		<ParamVals>300</ParamVals>
+		<ParamVals>400</ParamVals>
+	</stage1>
+	<stage1 Order="6" Type="6">
+		<ParamVals>Enemy1</ParamVals>
+	</stage1>
+	<stage1 Order="7" Type="25">
+		<ParamVals>0,6</ParamVals>
+		<ParamVals>2,6</ParamVals>
+		<ParamVals>-2,6</ParamVals>
+		<ParamVals>0,6</ParamVals>
+	</stage1>
+	<stage1 Order="8" Type="2">
+		<ParamVals>100002</ParamVals>
+	</stage1>
+	<stage1 Order="9" Type="70"/>
+	<stage1 Order="10" Type="17">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Order="11" Type="26">
+		<ParamVals>6</ParamVals>
+	</stage1>
+	<stage1 Order="12" Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Order="13" Type="2">
+		<ParamVals>100003</ParamVals>
+	</stage1>
+	<stage1 Order="14" Type="70"/>
+	<stage1 Order="15" Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Order="16" Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Order="17" Type="2">
+		<ParamVals>100004</ParamVals>
+	</stage1>
+	<stage1 Order="18" Type="70"/>
+	<stage1 Order="19" Type="26">
+		<ParamVals>-6</ParamVals>
+	</stage1>
+	<stage1 Order="20"/>
+	<stage1 Order="21"/>
+	<stage1 Order="22"/>
+	<stage1 Order="23"/>
+	<stage1 Order="24"/>
+	<stage1 Order="25"/>
+	<stage1 Order="26"/>
+	<stage1 Order="27"/>
+	<stage1 Order="28"/>
+	<stage1 Order="29"/>
+	<stage1 Order="30"/>
+	<stage1 Order="31"/>
+	<stage1 Order="32" Type="15">
+		<ParamVals>8</ParamVals>
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Order="33" Type="1">
+		<ParamVals>100100</ParamVals>
+	</stage1>
+	<stage1 Order="34" Type="62">
+		<ParamVals>100003</ParamVals>
+	</stage1>
+	<stage1 Order="35" Type="64" Layer="1">
+		<ParamVals>10</ParamVals>
+		<ParamVals>60</ParamVals>
+		<ParamVals>110</ParamVals>
+		<ParamVals>160</ParamVals>
+	</stage1>
+	<stage1 Order="36" Type="25" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Order="37" Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Order="38" Type="27" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>45</ParamVals>
+	</stage1>
+	<stage1 Order="39" Type="36" Layer="1" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Order="40" Type="28" Layer="1">
+		<ParamVals>10</ParamVals>
+		<ParamVals>-10</ParamVals>
+	</stage1>
+	<stage1 Order="41"/>
+	<stage1 Order="42" Type="9">
+		<ParamVals>1000</ParamVals>
+		<ParamVals>600</ParamVals>
+		<ParamVals>Stage1Title</ParamVals>
+	</stage1>
+	<stage1 Order="43"/>
+	<stage1 Order="44"/>
+	<stage1 Order="45"/>
+	<stage1 Order="46" Type="5">
+		<ParamVals>10001</ParamVals>
+		<ParamVals>700</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>Sera</ParamVals>
+	</stage1>
+	<stage1 Order="47" Type="25">
+		<ParamVals>0,6</ParamVals>
+	</stage1>
+	<stage1 Order="48" Type="2">
+		<ParamVals>10002</ParamVals>
+	</stage1>
+	<stage1 Order="49" Type="70"/>
+	<stage1 Order="50" Type="17">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Order="51" Type="26">
+		<ParamVals>6</ParamVals>
+	</stage1>
+	<stage1 Order="52" Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Order="53" Type="2">
+		<ParamVals>10003</ParamVals>
+	</stage1>
+	<stage1 Order="54" Type="70"/>
+	<stage1 Order="55" Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Order="56" Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Order="57"/>
+	<stage1 Order="58" Type="10">
+		<ParamVals>2000</ParamVals>
+		<ParamVals>800</ParamVals>
+		<ParamVals>Dialogue1</ParamVals>
+	</stage1>
+	<stage1 Order="59"/>
+	<stage1 Order="60" Type="8">
+		<ParamVals>10400</ParamVals>
+		<ParamVals>900</ParamVals>
+	</stage1>
+	<stage1 Order="61" Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Order="62" Type="2">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Order="63" Type="70"/>
+	<stage1 Order="64" Type="64">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Order="65" Type="62">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Order="66" Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Order="67" Type="17">
+		<ParamVals>300</ParamVals>
+	</stage1>
+	<stage1 Order="68"/>
+	<stage1 Order="69"/>
+	<stage1 Order="70" Type="15">
+		<ParamVals>7</ParamVals>
+	</stage1>
+	<stage1 Order="71" Type="1">
+		<ParamVals>10410</ParamVals>
+	</stage1>
+	<stage1 Order="72" Type="62">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Order="73" Type="64">
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Order="74" Type="25" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Order="75" Type="60" NewType="3" PosParamType="4">
+		<ParamVals>-2</ParamVals>
+	</stage1>
+	<stage1 Order="76" Type="60" PosParamType="5" AngleParamType="2">
+		<ParamVals>2,3</ParamVals>
+	</stage1>
+	<stage1 Order="77" Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Order="78" Type="27" AngleParamType="2">
+		<ParamVals>2,3</ParamVals>
+	</stage1>
+	<stage1 Order="79" Type="61" NewType="2" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage1>
+	<stage1 Order="80" Type="26" Layer="0" ParamFormat="2">
+		<ParamVals>-0.6</ParamVals>
+		<ParamVals>0.2</ParamVals>
+	</stage1>
+	<stage1 Order="81" Type="18">
+		<ParamVals>240</ParamVals>
+	</stage1>
+	<stage1 Order="82" Type="59">
+		<ParamVals>1000</ParamVals>
+	</stage1>
+	<stage1 Order="83"/>
+	<stage1 Order="84" Type="1">
+		<ParamVals>10420</ParamVals>
+	</stage1>
+	<stage1 Order="85" Type="62">
+		<ParamVals>10410</ParamVals>
+	</stage1>
+	<stage1 Order="86" Type="64">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Order="87" Type="25" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Order="87" Type="37" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Order="89" Type="6">
+		<ParamVals>EnemyLight1</ParamVals>
+	</stage1>
+	<stage1 Type="31" AngleParamType="2">
+		<ParamVals>1,4</ParamVals>
+	</stage1>
+	<stage1 Order="91" Type="32" AngleParamType="2">
+		<ParamVals>1,4</ParamVals>
+	</stage1>
+	<stage1 Order="92" Type="18">
+		<ParamVals>240</ParamVals>
+	</stage1>
+	<stage1 Order="93" Type="59">
+		<ParamVals>1000</ParamVals>
+	</stage1>
+	<stage1 Order="94" Type="50">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Order="95" Type="51">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Order="96" Type="2">
+		<ParamVals>10421</ParamVals>
+	</stage1>
+	<stage1 Order="97" Type="70"/>
+	<stage1 Order="98" Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Order="99" Type="2">
+		<ParamVals>10422</ParamVals>
+	</stage1>
+	<stage1 Order="100" Type="70"/>
+	<stage1 Order="101" Type="50">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Order="102" Type="49">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Order="103" Type="51">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Order="104"/>
+	<stage1 Order="105" Type="72">
+		<ParamVals>10500</ParamVals>
+		<ParamVals>901</ParamVals>
+	</stage1>
+	<stage1 Order="106" Type="53">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Order="107" Type="54" PosParamType="6">
+		<ParamVals>BossResetPos</ParamVals>
+	</stage1>
+	<stage1 Order="108" Type="2">
+		<ParamVals>10501</ParamVals>
+	</stage1>
+	<stage1 Order="109" Type="70"/>
+	<stage1 Order="110" Type="66" PosParamType="6">
+		<ParamVals>BossResetPos</ParamVals>
+	</stage1>
+	<stage1 Order="111" Type="23"/>
+	<stage1 Order="112"/>
+	<stage1 Order="113" Type="8">
+		<ParamVals>10600</ParamVals>
+		<ParamVals>1000</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>槍技「波斬」</ParamVals>
+	</stage1>
+	<stage1 Order="114" Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Order="115" Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Order="116"/>
+	<stage1 Order="117" Type="24">
+		<ParamVals>10700</ParamVals>
+		<ParamVals>1100</ParamVals>
+	</stage1>
+	<stage1 Order="118" Type="71">
+		<ParamVals>10800</ParamVals>
+		<ParamVals>1200</ParamVals>
+	</stage1>
+	<stage1 Order="119"/>
+	<stage1 Order="120"/>
+	<stage1 Order="121" Type="69">
+		<ParamVals>999</ParamVals>
+	</stage1>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10400</ParamVals>
+		<ParamVals>900</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>300</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>7</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10410</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyLight1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" PosParamType="ID_ID">
+		<ParamVals>10001,101</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10411</ParamVals>
+		<ParamVals>10412</ParamVals>
+		<ParamVals>10413</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>90</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="ID_ID">
+		<ParamVals>10001,101</ParamVals>
+	</stage1>
+	<stage1 Type="32" PosParamType="自身_ID">
+		<ParamVals>10001</ParamVals>
+	</stage1>
+	<stage1 Type="26" ParamFormat="1">
+		<ParamVals>-2</ParamVals>
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="49">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>61</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>62</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+		<ParamVals>3</ParamVals>
+		<ParamVals>8</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10510</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10401</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot2</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1" ParamFormat="1">
+		<ParamVals>60</ParamVals>
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" PreLayerNo="1">
+		<ParamVals>1.5,2.5</ParamVals>
+		<ParamVals>2,2.5</ParamVals>
+		<ParamVals>2.5,2.5</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" PreLayerNo="2">
+		<ParamVals>-1.5,2.5</ParamVals>
+		<ParamVals>-2,2.5</ParamVals>
+		<ParamVals>-2.5,2.5</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" PreLayerNo="1">
+		<ParamVals>150</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" PreLayerNo="2">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離" Layer="2" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>0.3</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10511</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="2" ParamFormat="1" PreLayerNo="1">
+		<ParamVals>310</ParamVals>
+		<ParamVals>-10</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="2" ParamFormat="1" PreLayerNo="2">
+		<ParamVals>230</ParamVals>
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="Config" PreLayerNo="1">
+		<ParamVals>SeraNoSpell1</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="Config" PreLayerNo="2">
+		<ParamVals>SeraNoSpell2</ParamVals>
+	</stage1>
+	<stage1 Type="35">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>1.5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10010</ParamVals>
+		<ParamVals>1000</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>槍技「波斬」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10011</ParamVals>
+		<ParamVals>10012</ParamVals>
+		<ParamVals>10013</ParamVals>
+		<ParamVals>10014</ParamVals>
+		<ParamVals>10015</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="行動循環">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>3</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10031</ParamVals>
+	</stage1>
+	<stage1 Type="父Id" Layer="0">
+		<ParamVals>10011,10013,10015</ParamVals>
+		<ParamVals>10012</ParamVals>
+		<ParamVals>10014</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1">
+		<ParamVals>130</ParamVals>
+		<ParamVals>140</ParamVals>
+		<ParamVals>150</ParamVals>
+		<ParamVals>160</ParamVals>
+		<ParamVals>170</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>CirclePredict</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="0">
+		<ParamVals>90</ParamVals>
+		<ParamVals>135</ParamVals>
+		<ParamVals>45</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離" Layer="1">
+		<ParamVals>5</ParamVals>
+		<ParamVals>4</ParamVals>
+		<ParamVals>3</ParamVals>
+		<ParamVals>2</ParamVals>
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10036</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10031</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>118</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>7.2</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="22"/>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>5</ParamVals>
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10041</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10011,10013,10015</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="0">
+		<ParamVals>100</ParamVals>
+		<ParamVals>95</ParamVals>
+		<ParamVals>90</ParamVals>
+		<ParamVals>95</ParamVals>
+		<ParamVals>100</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="0">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>-3</ParamVals>
+		<ParamVals>-1.5</ParamVals>
+		<ParamVals>0</ParamVals>
+		<ParamVals>1.5</ParamVals>
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="1" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>-18</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Type="26" Layer="1" ParamFormat="1">
+		<ParamVals>4</ParamVals>
+		<ParamVals>0.2</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+		<ParamVals>5</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10051</ParamVals>
+	</stage1>
+	<stage1 Type="父Id" Layer="0">
+		<ParamVals>10012,10015</ParamVals>
+		<ParamVals>10013,10014</ParamVals>
+	</stage1>
+	<stage1 Type="6" Layer="0">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="0">
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>10</ParamVals>
+		<ParamVals>20</ParamVals>
+		<ParamVals>30</ParamVals>
+		<ParamVals>40</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" Layer="0">
+		<ParamVals>0</ParamVals>
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>1.5</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="2" PreLayerNo="1">
+		<ParamVals>80</ParamVals>
+		<ParamVals>40</ParamVals>
+		<ParamVals>0</ParamVals>
+		<ParamVals>-40</ParamVals>
+		<ParamVals>-80</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" Layer="2" PreLayerNo="2">
+		<ParamVals>100</ParamVals>
+		<ParamVals>140</ParamVals>
+		<ParamVals>180</ParamVals>
+		<ParamVals>220</ParamVals>
+		<ParamVals>260</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離" Layer="2">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="26" Layer="0">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="36" Layer="1" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>1.5</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="2">
+		<ParamVals>30</ParamVals>
+		<ParamVals>15</ParamVals>
+		<ParamVals>0</ParamVals>
+		<ParamVals>-15</ParamVals>
+		<ParamVals>-30</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10300</ParamVals>
+		<ParamVals>1100</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10301</ParamVals>
+		<ParamVals>10302</ParamVals>
+	</stage1>
+	<stage1 Type="行動至位置" PosParamType="Config">
+		<ParamVals>BossHome</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_位置"/>
+	<stage1 Type="位置" PosParamType="Config">
+		<ParamVals>BossHome</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="23"/>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10600</ParamVals>
+		<ParamVals>1200</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「鏡中的提線木偶」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10601</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>240</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>72</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10651</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10601</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距距離">
+		<ParamVals>1.5</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>8</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10652</ParamVals>
+		<ParamVals>10653</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>240</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="Config">
+		<ParamVals>RandomAngle</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>12</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10661</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10601</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyLight1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>45</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="49">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" PosParamType="角度距離"/>
+	<stage1 Type="角距距離">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" Layer="0" ParamFormat="1">
+		<ParamVals>66</ParamVals>
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0.3</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="Config">
+		<ParamVals>RandomAngle</ParamVals>
+	</stage1>
+	<stage1 Type="27" ParamFormat="1">
+		<ParamVals>55</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>0</ParamVals>
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="31" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="31" PosParamType="Config">
+		<ParamVals>RandomAngle30</ParamVals>
+	</stage1>
+	<stage1 Type="31">
+		<ParamVals>-15</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10662</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="51">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>90</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10700</ParamVals>
+		<ParamVals>1300</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「黑之波動」</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10701</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-1.5</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>12</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10750</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10701</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot2</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1" ParamFormat="1">
+		<ParamVals>-30</ParamVals>
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="27" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="1">
+		<ParamVals>5</ParamVals>
+		<ParamVals>30</ParamVals>
+		<ParamVals>15</ParamVals>
+		<ParamVals>0</ParamVals>
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="35">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-1</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10751</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>7.5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>10760</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>10751</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="7" Layer="0" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>15</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10761</ParamVals>
+	</stage1>
+	<stage1 Type="22"/>
+	<stage1 Type="17">
+		<ParamVals>240</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10800</ParamVals>
+		<ParamVals>1400</ParamVals>
+	</stage1>
+	<stage1 Type="24"/>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="1">
+		<ParamVals>20000</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>1800</ParamVals>
+	</stage1>
+	<stage1 Type="5"/>
+	<stage1 Type="6">
+		<ParamVals>Feiyu</ParamVals>
+	</stage1>
+	<stage1 Type="25">
+		<ParamVals>0,6</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20001</ParamVals>
+		<ParamVals>20002</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>6</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="10">
+		<ParamVals>2100</ParamVals>
+		<ParamVals>1900</ParamVals>
+		<ParamVals>Dialogue2</ParamVals>
+	</stage1>
+	<stage1/>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>20020</ParamVals>
+		<ParamVals>2000</ParamVals>
+		<ParamVals>Feiyu</ParamVals>
+		<ParamVals>「黑暗鼓動」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20021</ParamVals>
+		<ParamVals>20022</ParamVals>
+		<ParamVals>20023</ParamVals>
+		<ParamVals>20024</ParamVals>
+		<ParamVals>20025</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="行動循環">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="紀錄" PosParamType="角度">
+		<ParamVals>blackAngle</ParamVals>
+	</stage1>
+	<stage1 Type="角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="紀錄" PosParamType="角度">
+		<ParamVals>blackAngle</ParamVals>
+	</stage1>
+	<stage1 Type="角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="紀錄" PosParamType="角度">
+		<ParamVals>blackAngle</ParamVals>
+	</stage1>
+	<stage1 Type="角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>4.5</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="紀錄" PosParamType="角度">
+		<ParamVals>blackAngle</ParamVals>
+	</stage1>
+	<stage1 Type="角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="1">
+		<ParamVals>20041</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20022,20023,20024,20025</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>Empty</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20042</ParamVals>
+		<ParamVals>20043</ParamVals>
+		<ParamVals>20044</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>80</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="行動至位置" PosParamType="ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="行動至位置距離">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="17" PosParamType="ID">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>-1.5</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>500</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="1">
+		<ParamVals>20041</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20022,20023,20024,20025</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>Empty</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20042</ParamVals>
+		<ParamVals>20043</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>80</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="53" PosParamType="自身_ID">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="55">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="54" PosParamType="ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>61</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>500</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>18</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20031</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20041</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="27" Layer="0" Range="1,6" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="0" Range="7,18" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="26" Layer="0" Range="1,6">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="26" Layer="0" Range="7,18">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20032</ParamVals>
+		<ParamVals>20033</ParamVals>
+	</stage1>
+	<stage1 Type="行動至父行動">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="行動至父時間">
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="36" Layer="0" Range="1,6">
+		<ParamVals>-1</ParamVals>
+	</stage1>
+	<stage1 Type="36" Layer="0" Range="7,18">
+		<ParamVals>-2</ParamVals>
+	</stage1>
+	<stage1 Type="20">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="37" PosParamType="父位置"/>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="36" Layer="0" Range="1,6">
+		<ParamVals>-1</ParamVals>
+	</stage1>
+	<stage1 Type="36" Layer="0" Range="7,18">
+		<ParamVals>-2</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="0" Range="1,6" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="0" Range="7,18" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>10300</ParamVals>
+		<ParamVals>2100</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>10301</ParamVals>
+		<ParamVals>10302</ParamVals>
+	</stage1>
+	<stage1 Type="行動至位置" PosParamType="Config">
+		<ParamVals>BossHome</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_位置"/>
+	<stage1 Type="位置" PosParamType="Config">
+		<ParamVals>BossHome</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="23"/>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>20100</ParamVals>
+		<ParamVals>2200</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「生命吸取」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20101</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>400</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20111</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20101</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyLight1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="49">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="31">
+		<ParamVals>90</ParamVals>
+	</stage1>
+	<stage1 Type="32" Layer="0">
+		<ParamVals>-60</ParamVals>
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>155</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20112</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+		<ParamVals>12</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20121</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20112</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1" ParamFormat="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="0">
+		<ParamVals>-3.4,-4.5</ParamVals>
+		<ParamVals>3.4,-4.5</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="1">
+		<ParamVals>0,0</ParamVals>
+		<ParamVals>0.25,0</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="2">
+		<ParamVals>0,0</ParamVals>
+		<ParamVals>-0.25,0</ParamVals>
+	</stage1>
+	<stage1 Type="17" PosParamType="Config">
+		<ParamVals>LifeSuckRan</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20122</ParamVals>
+		<ParamVals>20123</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動至位置" PosParamType="ID">
+		<ParamVals>20000</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>1.5</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_ID">
+		<ParamVals>20000</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="18">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>20200</ParamVals>
+		<ParamVals>2300</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「死亡之門」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20201</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>400</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>4</ParamVals>
+		<ParamVals>10</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20210</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20201</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="1" ParamFormat="1">
+		<ParamVals>10</ParamVals>
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="1">
+		<ParamVals>-0.15,-0.15</ParamVals>
+		<ParamVals>0.35,0.35</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="2">
+		<ParamVals>0.15,-0.15</ParamVals>
+		<ParamVals>-0.35,0.35</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="3">
+		<ParamVals>0.15,0.15</ParamVals>
+		<ParamVals>-0.35,-0.35</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="1" ParamFormat="1" PreLayerNo="4">
+		<ParamVals>-0.15,0.15</ParamVals>
+		<ParamVals>0.35,-0.35</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="43">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="42">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="17" Layer="1" ParamFormat="1">
+		<ParamVals>60</ParamVals>
+		<ParamVals>20</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20211</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="50">
+		<ParamVals>true</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="27" Layer="0">
+		<ParamVals>45</ParamVals>
+		<ParamVals>135</ParamVals>
+		<ParamVals>225</ParamVals>
+		<ParamVals>315</ParamVals>
+	</stage1>
+	<stage1 Type="28" Layer="1">
+		<ParamVals>45</ParamVals>
+		<ParamVals>-45</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>20300</ParamVals>
+		<ParamVals>2400</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「死亡嘆息」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20301</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>200</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20311</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20301</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>100</ParamVals>
+		<ParamVals>200</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="0">
+		<ParamVals>-2,3</ParamVals>
+		<ParamVals>2,3</ParamVals>
+	</stage1>
+	<stage1 Type="27" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="36">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="紀錄" PosParamType="角度">
+		<ParamVals>Spell20311</ParamVals>
+	</stage1>
+	<stage1 Type="角度" PosParamType="自身_ID">
+		<ParamVals>101</ParamVals>
+	</stage1>
+	<stage1 Type="59">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>4</ParamVals>
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20321</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20311</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot2</ParamVals>
+	</stage1>
+	<stage1 Type="31" PosParamType="紀錄">
+		<ParamVals>Spell20311</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" Layer="0" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" PosParamType="紀錄">
+		<ParamVals>Spell20311</ParamVals>
+	</stage1>
+	<stage1 Type="角距角度" Layer="0">
+		<ParamVals>45</ParamVals>
+		<ParamVals>135</ParamVals>
+		<ParamVals>225</ParamVals>
+		<ParamVals>315</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離" Layer="1" ParamFormat="2">
+		<ParamVals>0.35</ParamVals>
+		<ParamVals>0.4</ParamVals>
+	</stage1>
+	<stage1 Type="37" PosParamType="父位置"/>
+	<stage1 Type="18">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>4</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20331</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20301</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>Empty</ParamVals>
+	</stage1>
+	<stage1 Type="7" ParamFormat="2">
+		<ParamVals>1</ParamVals>
+		<ParamVals>50</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="0">
+		<ParamVals>-2,3</ParamVals>
+		<ParamVals>0,3</ParamVals>
+		<ParamVals>2,3</ParamVals>
+		<ParamVals>0,3</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="59">
+		<ParamVals>5</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>4</ParamVals>
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20341</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20331</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="25" Layer="0" PosParamType="角度距離"/>
+	<stage1 Type="角距角度" Layer="0">
+		<ParamVals>45</ParamVals>
+		<ParamVals>135</ParamVals>
+		<ParamVals>225</ParamVals>
+		<ParamVals>315</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離" Layer="1" ParamFormat="2">
+		<ParamVals>0.35</ParamVals>
+		<ParamVals>0.4</ParamVals>
+	</stage1>
+	<stage1 Type="37" PosParamType="父位置"/>
+	<stage1 Type="27" Layer="0">
+		<ParamVals>45</ParamVals>
+		<ParamVals>135</ParamVals>
+		<ParamVals>225</ParamVals>
+		<ParamVals>315</ParamVals>
+	</stage1>
+	<stage1 Type="26" Layer="1">
+		<ParamVals>0</ParamVals>
+		<ParamVals>0.2</ParamVals>
+		<ParamVals>0.4</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="8">
+		<ParamVals>20400</ParamVals>
+		<ParamVals>2500</ParamVals>
+		<ParamVals>Sera</ParamVals>
+		<ParamVals>「黑暗之舞」</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20401</ParamVals>
+	</stage1>
+	<stage1 Type="14">
+		<ParamVals>30</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="48">
+		<ParamVals>false</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="1" Layer="0">
+		<ParamVals>20411</ParamVals>
+		<ParamVals>20412</ParamVals>
+	</stage1>
+	<stage1 Type="父Id">
+		<ParamVals>20401</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>Empty</ParamVals>
+	</stage1>
+	<stage1 Type="7" Layer="0">
+		<ParamVals>0</ParamVals>
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="25" Layer="0">
+		<ParamVals>3.2,4</ParamVals>
+		<ParamVals>-3.2,4</ParamVals>
+	</stage1>
+	<stage1 Type="26">
+		<ParamVals>1.25</ParamVals>
+	</stage1>
+	<stage1 Type="27">
+		<ParamVals>270</ParamVals>
+	</stage1>
+	<stage1/>
+	<stage1/>
+	<stage1 Type="15">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="1">
+		<ParamVals>20420</ParamVals>
+	</stage1>
+	<stage1 Type="父Id" Layer="0">
+		<ParamVals>20411</ParamVals>
+		<ParamVals>20412</ParamVals>
+	</stage1>
+	<stage1 Type="6">
+		<ParamVals>EnemyShot3</ParamVals>
+	</stage1>
+	<stage1 Type="7">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="行動列表">
+		<ParamVals>20421</ParamVals>
+		<ParamVals>20421</ParamVals>
+		<ParamVals>20422</ParamVals>
+		<ParamVals>20423</ParamVals>
+	</stage1>
+	<stage1 Type="25" PosParamType="父位置"/>
+	<stage1 Type="行動序號">
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="37" PosParamType="父位置"/>
+	<stage1 Type="39">
+		<ParamVals>0.25</ParamVals>
+	</stage1>
+	<stage1 Type="41">
+		<ParamVals>0.25</ParamVals>
+	</stage1>
+	<stage1 Type="38">
+		<ParamVals>0.35</ParamVals>
+	</stage1>
+	<stage1 Type="40">
+		<ParamVals>0.35</ParamVals>
+	</stage1>
+	<stage1 Type="53">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="55">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="54" PosParamType="自位置"/>
+	<stage1 Type="54" PosParamType="角度距離"/>
+	<stage1 Type="角距角度">
+		<ParamVals>180</ParamVals>
+		<ParamVals>0</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>6.4</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>121</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>1</ParamVals>
+	</stage1>
+	<stage1 Type="38">
+		<ParamVals>-0.7</ParamVals>
+	</stage1>
+	<stage1 Type="40">
+		<ParamVals>-0.7</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>2</ParamVals>
+	</stage1>
+	<stage1 Type="37" PosParamType="父位置"/>
+	<stage1 Type="38">
+		<ParamVals>0.35</ParamVals>
+	</stage1>
+	<stage1 Type="40">
+		<ParamVals>0.35</ParamVals>
+	</stage1>
+	<stage1 Type="53">
+		<ParamVals>120</ParamVals>
+	</stage1>
+	<stage1 Type="55">
+		<ParamVals>0.5</ParamVals>
+	</stage1>
+	<stage1 Type="54" PosParamType="自位置"/>
+	<stage1 Type="54" PosParamType="角度距離"/>
+	<stage1 Type="角距角度">
+		<ParamVals>0</ParamVals>
+		<ParamVals>180</ParamVals>
+	</stage1>
+	<stage1 Type="角距距離">
+		<ParamVals>6.4</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>121</ParamVals>
+	</stage1>
+	<stage1 Type="行動序號">
+		<ParamVals>3</ParamVals>
+	</stage1>
+	<stage1 Type="38">
+		<ParamVals>-0.7</ParamVals>
+	</stage1>
+	<stage1 Type="40">
+		<ParamVals>-0.7</ParamVals>
+	</stage1>
+	<stage1 Type="17">
+		<ParamVals>60</ParamVals>
+	</stage1>
+	<stage1 Type="END"/>
+</root>

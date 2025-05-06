@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_notcard6/>
+	<stage7_notcard6/>
+	<stage7_notcard6/>
+	<stage7_notcard6/>
+	<stage7_notcard6 Order="6" Type="6">
+		<ParamVals>15300</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="7" Type="102">
+		<ParamVals>7900</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="8" Type="301">
+		<ParamVals>30</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="9" Type="801">
+		<ParamVals>30</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="10" Type="803">
+		<ParamVals>0</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="11" Type="802" PosParamType="2">
+		<ParamVals>6</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6/>
+	<stage7_notcard6/>
+	<stage7_notcard6/>
+	<stage7_notcard6 Order="15" Type="10">
+		<ParamVals>15310</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="16" Type="102">
+		<ParamVals>8000</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="17" Type="203">
+		<ParamVals>Sera</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="18" Type="206">
+		<ParamVals>1000</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="19" Type="304">
+		<ParamVals>3000</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Type="204"/>
+	<stage7_notcard6 Order="21" Type="301">
+		<ParamVals>120</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="22" Type="2">
+		<ParamVals>153101</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="23" Type="101">
+		<ParamVals>15310</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="24" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="25" Type="702">
+		<ParamVals>False</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="26" Type="2">
+		<ParamVals>153109</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="27" Type="101">
+		<ParamVals>15310</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="28" Type="103">
+		<ParamVals>480</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="29" Type="101">
+		<ParamVals>153109</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="30" Type="104">
+		<ParamVals>0</ParamVals>
+	</stage7_notcard6>
+	<stage7_notcard6 Order="31" Type="301">
+		<ParamVals>90</ParamVals>
+	</stage7_notcard6>
+</root>

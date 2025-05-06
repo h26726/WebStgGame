@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+	<stage7_card6shot3/>
+	<stage7_card6shot3/>
+	<stage7_card6shot3/>
+	<stage7_card6shot3/>
+	<stage7_card6shot3/>
+	<stage7_card6shot3/>
+	<stage7_card6shot3 Order="8" Type="1">
+		<ParamVals>16301</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="9" Type="101">
+		<ParamVals>16200</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="10" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="11" Type="201">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="12" Type="202">
+		<ParamVals>Shot1_red</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="13" Type="705">
+		<ParamVals>0.5</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="14" Type="706">
+		<ParamVals>20</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="15" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="16" Type="503" AngleParamType="1">
+		<ParamVals>90</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="17" Type="303">
+		<ParamVals>300</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3/>
+	<stage7_card6shot3 Order="19" Type="1">
+		<ParamVals>16302</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="20" Type="101">
+		<ParamVals>16200</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="21" Type="103">
+		<ParamVals>0</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="22" Type="201">
+		<ParamVals>EnemyShot1</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="23" Type="202">
+		<ParamVals>Shot1_red</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="24" Type="705">
+		<ParamVals>0.5</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="25" Type="706">
+		<ParamVals>20</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="26" Type="401" PosParamType="2">
+		<ParamVals>2</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="27" Type="503" AngleParamType="1">
+		<ParamVals>0</ParamVals>
+	</stage7_card6shot3>
+	<stage7_card6shot3 Order="28" Type="303">
+		<ParamVals>300</ParamVals>
+	</stage7_card6shot3>
+</root>
